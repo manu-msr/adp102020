@@ -84,4 +84,4 @@ Tres de los estadísticos de orden más comunes son el **Rango**, los **Percenti
 
 <br/>
 
-[`Anterior`](../README.md) | `Siguiente`
+[`Anterior`](../README.md) | [`Siguiente`](../sesion02/README.md)

@@ -20,4 +20,5 @@ El Procesamiento de Datos, que fue el tema del módulo anterior, estará siempre
 
 Fecha | Tema                                 | Material |
 ------| :------------------------------------| :------- |
-21/10 | Estimados de Locación y Variabilidad | [**`Sesión 1`**](sesion01/README.md) |
+21/10 | Estimados de Locación y Variabilidad | [**`Sesión 1`**](sesion01/README.md), [**`Presentación`**](presentaciones/adpp01.pdf) |
+26/10 | Introducción a la visualización de datos: Distribuciones | [**`Sesión 2`**](sesion02/README.md)
