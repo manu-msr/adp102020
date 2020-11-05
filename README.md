@@ -22,4 +22,5 @@ Fecha | Tema                                 | Material |
 ------| :------------------------------------| :------- |
 21/10 | Estimados de Locación y Variabilidad | [**`Sesión 1`**](sesion01/README.md), [**`Presentación`**](presentaciones/adpp01.pdf) |
 26/10 | Introducción a la visualización de datos: Distribuciones | [**`Sesión 2`**](sesion02/README.md), [**`Presentación`**](presentaciones/adpp02.pdf) |
-28/10 | Exploración de Variables Categóricas y Análisis Multivariable | [**`Sesión 3`**](sesion03/README.md) |
+28/10 | Exploración de Variables Categóricas y Análisis Multivariable | [**`Sesión 3`**](sesion03/README.md), [**`Presentación`**](presentaciones/adpp03.pdf) |
+04/11 | Correlaciones y Regresión Lineal Simple | [**`Sesión 4`**](sesion04/README.md) |
