@@ -1,4 +1,4 @@
-[`Análisis de Datos con Python`](../README.md) > `Sesión 4`
+[`Análisis de Datos con Python`](../README.md) > `Sesión 5`
 
 ## Sesión 05: Distribuciones muestrales y técnicas de evaluación de modelos
 

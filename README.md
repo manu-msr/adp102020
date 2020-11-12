@@ -18,10 +18,11 @@ El Procesamiento de Datos, que fue el tema del módulo anterior, estará siempre
 
 ### Agenda
 
-Fecha | Sesión | Tema                                 | Material |
-------| :----: | :------------------------------------| :------- |
-21/10 | 1      | Estimados de Locación y Variabilidad | [**`Sesión 1`**](sesion01/README.md), [**`Presentación`**](presentaciones/adpp01.pdf) |
-26/10 | 2      | Introducción a la visualización de datos: Distribuciones | [**`Sesión 2`**](sesion02/README.md), [**`Presentación`**](presentaciones/adpp02.pdf) |
+Fecha | Sesión | Tema                                                          | Material |
+------| :----: | :------------------------------------------------------------ | :------- |
+21/10 | 1      | Estimados de Locación y Variabilidad                          | [**`Sesión 1`**](sesion01/README.md), [**`Presentación`**](presentaciones/adpp01.pdf) |
+26/10 | 2      | Introducción a la visualización de datos: Distribuciones      | [**`Sesión 2`**](sesion02/README.md), [**`Presentación`**](presentaciones/adpp02.pdf) |
 28/10 | 3      | Exploración de Variables Categóricas y Análisis Multivariable | [**`Sesión 3`**](sesion03/README.md), [**`Presentación`**](presentaciones/adpp03.pdf) |
-04/11 | 4      | Correlaciones y Regresión Lineal Simple | [**`Sesión 4`**](sesion04/README.md), [**`Presentación`**](presentaciones/adpp04.pdf) |
-09/11 | 5      | Distribuciones muestrales y técnicas de evaluación de modelos | [**`Sesión 5`**](sesion05/README.md) |
+04/11 | 4      | Correlaciones y Regresión Lineal Simple                       | [**`Sesión 4`**](sesion04/README.md), [**`Presentación`**](presentaciones/adpp04.pdf) |
+09/11 | 5      | Distribuciones muestrales y técnicas de evaluación de modelos | [**`Sesión 5`**](sesion05/README.md), [**`Presentación`**](presentaciones/adpp05.pdf) |
+11/11 | 6      | Visualización de Datos Avanzada                               | [**`Sesión 6`**](sesion06/README.md) |
