@@ -26,4 +26,4 @@ Fecha | Sesión | Tema                                                          
 04/11 | 4      | Correlaciones y Regresión Lineal Simple                       | [**`Sesión 4`**](sesion04/README.md), [**`Presentación`**](presentaciones/adpp04.pdf) |
 09/11 | 5      | Distribuciones muestrales y técnicas de evaluación de modelos | [**`Sesión 5`**](sesion05/README.md), [**`Presentación`**](presentaciones/adpp05.pdf) |
 11/11 | 6      | Visualización de Datos Avanzada                               | [**`Sesión 6`**](sesion06/README.md) |
-12/11 | 7      | Pruebas A/B y Procesamiento del Lenguaje Natural | [**`Sesión 7`**](sesion07/README.md)
+12/11 | 7      | Pruebas A/B y Procesamiento del Lenguaje Natural | [**`Sesión 7`**](sesion07/Readme.md)
